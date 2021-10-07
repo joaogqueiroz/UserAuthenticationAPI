@@ -7,9 +7,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Services Layer", "1 - S
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Repositories Layer", "2 - Repositories Layer", "{F4E1FDEC-9D5C-4DC3-88F0-BFB43B9F5B31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetAPIProject02.Data", "AspNetAPIProject02.Data\AspNetAPIProject02.Data.csproj", "{C4D1AA0A-C0B8-4477-96E7-299B63547DD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetAPIProject02.Data", "AspNetAPIProject02.Data\AspNetAPIProject02.Data.csproj", "{C4D1AA0A-C0B8-4477-96E7-299B63547DD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetAPIProject02.Services", "AspNetAPIProject02.Services\AspNetAPIProject02.Services.csproj", "{CFD2D093-37FD-4068-969B-34BC642851C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetAPIProject02.Services", "AspNetAPIProject02.Services\AspNetAPIProject02.Services.csproj", "{CFD2D093-37FD-4068-969B-34BC642851C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
