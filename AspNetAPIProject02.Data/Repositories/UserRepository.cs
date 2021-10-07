@@ -40,7 +40,6 @@ namespace AspNetAPIProject02.Data.Repositories
         public List<User> GetAll()
         {
             return _context.User.OrderBy(u => u.Name).ToList();
-
         }
 
         public User GetByID(Guid id)
