@@ -39,6 +39,7 @@ namespace AspNetAPIProject02.Data.Repositories
 
         public List<User> GetAll()
         {
+            //teste
             return _context.User.OrderBy(u => u.Name).ToList();
         }
 
